@@ -1,0 +1,19 @@
+
+.title-style{
+    color: green;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+
+.nav-style{
+    font-size: 18px;
+}
+.space-item-nav{
+    margin-right: 720px;
+}
+
+.nav-color{
+    background-color: rgb(251, 250, 248);
+    border: 2px solid rgb(56, 54, 54);
+}
