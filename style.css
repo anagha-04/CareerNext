@@ -17,3 +17,14 @@
     background-color: rgb(251, 250, 248);
     border: 2px solid rgb(56, 54, 54);
 }
+
+.btn-color{
+    background-color: green;;
+    color: white;
+    font-weight: bold;
+}
+
+.link-color{
+    color: black;
+    
+}
