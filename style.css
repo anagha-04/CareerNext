@@ -28,3 +28,23 @@
     color: black;
     
 }
+
+.center-card{
+
+    margin-top: 100px;
+}
+
+
+
+.card-box{
+    box-shadow: 2px 2px 7px 2px  green;
+    height: 500px;
+}
+
+.shadow-box{
+    box-shadow: 2px 2px 7px 2px  green;
+}
+
+.box-style{
+    height: 50px;
+}
