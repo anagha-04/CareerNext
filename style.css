@@ -10,7 +10,7 @@
     font-size: 18px;
 }
 .space-item-nav{
-    margin-right: 720px;
+    margin-right: 600px;
 }
 
 .nav-color{
@@ -47,4 +47,9 @@
 
 .box-style{
     height: 50px;
+}
+
+.fa-star{
+    font-size: 19px;
+    
 }
